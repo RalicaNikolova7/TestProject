@@ -1,0 +1,6 @@
+/Users/ralitsanikolova/TestProject/obj/Debug/net10.0/TestProject.csproj.AssemblyReference.cache
+/Users/ralitsanikolova/TestProject/obj/Debug/net10.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralitsanikolova/TestProject/obj/Debug/net10.0/TestProject.AssemblyInfoInputs.cache
+/Users/ralitsanikolova/TestProject/obj/Debug/net10.0/TestProject.AssemblyInfo.cs
+/Users/ralitsanikolova/TestProject/obj/Debug/net10.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/ralitsanikolova/TestProject/obj/Debug/net10.0/TestProject.sourcelink.json
